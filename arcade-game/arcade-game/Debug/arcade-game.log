@@ -1,9 +1,11 @@
 ﻿  arcade-game.cpp
-c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(128): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(157): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(158): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(174): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(175): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yonatan\desktop\all projects\arcade-game\arcade-game\arcade-game\arcade-game.cpp(202): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   arcade-game.vcxproj -> C:\Users\yonatan\Desktop\all projects\arcade-game\arcade-game\Debug\arcade-game.exe
