@@ -143,7 +143,6 @@ protected:
 		if (m_fTrackCurve < m_vTrackVector[m_iTrackSection].first)
 		{
 			m_fTrackCurve += m_fSpeed / 100;
-
 		}
 
 		// If the curve is smaller then current turn turns it less
@@ -158,7 +157,7 @@ protected:
 			fPrespective = (float)y / ScreenHeight();
 			fRoadWidth = (fPrespective / 2.0f) - GRASS_WIDTH;
 			fClipWidth = CLIP_PRESENTEGE * fRoadWidth;
-			fColorCalc = sinf((float)ScreenHeight() * ((float)pow((1.0 - fPrespective), 2.0) + 0.01 * m_fDistance));
+			fColorCalc = sinf((float)ScreenHeight() * ((float)pow((1.0 - fPrespective), 2.0) + 0.005 * m_fDistance));
 			fMidPoint = 0.5f + m_fTrackCurve * CURVES_SHARPNESS * pow(1.0f - fPrespective, 3.0f);
 
 			iGrassColor = fColorCalc > 0 ? FG_GREEN : FG_DARK_GREEN;
